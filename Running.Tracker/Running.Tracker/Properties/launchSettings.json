@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Running.Tracker": {
+      "commandName": "Project",
+      "workingDirectory": "C:\\Users\\DSoto\\source\\repos\\Running.Tracker\\Running.Tracker"
+    }
+  }
+}
